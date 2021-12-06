@@ -4,3 +4,7 @@ This is a movies/web series listing application where user can filter out their 
 
 ## Tech Stack Used
 React js, Next js, Tailwind CSS
+
+## Application UI
+
+![mojlo app homescreen](https://github.com/mondalraj/portfolio-project-images/blob/master/mojlo-app.png?raw=true)
